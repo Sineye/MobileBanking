@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Mobile Banking</string>
+    <string name="welcome">Welcome!</string>
+    <string name="log_in">Log in</string>
+    <string name="bank_logo">Bank Logo</string>
+    <string name="username">przcie****</string>
+</resources>
